@@ -4,6 +4,6 @@ Authenticate against accounts on the local system (Linux PAM, Windows NT Account
 
 |---------+------------------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/system-auth.git |
-| commit  | 0000000                                              |
+| commit  | b74dfa3                                              |
 | systems | system-auth                                          |
 |---------+------------------------------------------------------|
